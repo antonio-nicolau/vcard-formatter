@@ -1,6 +1,7 @@
+import 'package:vcard_formatter/src/constants/default_values.dart';
 import 'package:vcard_formatter/vcard_formatter.dart';
 
 void main() {
-  var awesome = VCard();
-  print('awesome: ${awesome.isAwesome}');
+  final vCard = VCard(vCardString);
+  print(vCard.formattedName);
 }

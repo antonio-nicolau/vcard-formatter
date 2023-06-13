@@ -3,6 +3,6 @@
 /// More dartdocs go here.
 library;
 
-export 'src/vcard_formatter_base.dart';
+export 'src/vcard_formatter.dart';
 
 // TODO: Export any libraries intended for clients of this package.
