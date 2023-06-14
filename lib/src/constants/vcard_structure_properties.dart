@@ -1,3 +1,5 @@
+const beginCardString = 'BEGIN:VCARD';
+const endCardString = 'END:VCARD';
 const nameProperty = 'N';
 const formattedNameProperty = 'FN';
 const nickNameProperty = 'NICKNAME';
