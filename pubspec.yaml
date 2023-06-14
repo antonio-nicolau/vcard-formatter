@@ -1,7 +1,7 @@
 name: vcard_formatter
-description: A starting point for Dart libraries or applications.
-version: 1.0.0
-# repository: https://github.com/my_org/my_repo
+description: Dart library to read and write vCard files.
+version: 0.0.1
+repository: https://github.com/antonio-nicolau/vcard-formatter
 
 environment:
   sdk: ^3.0.0
